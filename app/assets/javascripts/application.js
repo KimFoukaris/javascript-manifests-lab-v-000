@@ -15,3 +15,5 @@
 //= require turbolinks
 //= require alert_maker.js
 //= require main.js
+//= require wrong_place_wrong_time
+
